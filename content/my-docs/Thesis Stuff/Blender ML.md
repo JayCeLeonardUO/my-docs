@@ -1,1 +1,0 @@
-![[Thesis_Prop_Leonard.pdf.pdf]]
