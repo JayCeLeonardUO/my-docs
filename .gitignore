@@ -24,7 +24,6 @@ replit.nix
 *.toc
 *.synctex.gz
 *.dvi
-*.pdf
 *.ps
 *.eps
 *.lof
