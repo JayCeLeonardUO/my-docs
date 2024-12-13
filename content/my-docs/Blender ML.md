@@ -11,3 +11,7 @@ Key Goals
 Presentation
 ---
 ![[Thesis_Prop_Leonard.pdf.pdf]]
+
+Initial Paper Draft
+---
+![[CS640_F24_paper_19 (5).pdf]]
