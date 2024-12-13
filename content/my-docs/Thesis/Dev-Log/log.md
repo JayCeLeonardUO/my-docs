@@ -1,3 +1,4 @@
+# Nov 10
 Progess
 ---
 - found a promising library to use for the GFlowNet implementation
@@ -18,8 +19,6 @@ Extras:
 - Read all the way through GflowNet Foundation paper
 - Really search for a paper that tackles a problem with a similar state space to Blender
 
-# Dev-Notes
----
 resource links : 
 ---
 - [GFlowNet Library](https://github.com/alexhernandezgarcia/gflownet)
