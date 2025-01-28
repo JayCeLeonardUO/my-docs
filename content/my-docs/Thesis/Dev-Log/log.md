@@ -1,3 +1,5 @@
+# Github
+- [here](https://github.com/JayCeLeonardUO/bpygfn) - `https://github.com/JayCeLeonardUO/bpygfn`
 # Nov 10
 Progess
 ---
@@ -38,4 +40,29 @@ Progress
 Next
 ---
 - working on intial demo still. figuring out how to make a flow model that work's with my embeddings for a gflownet seq
-- start of term have working demo. 
+- start of term have working demo.
+
+---
+# Jan 12
+
+- found library for gflow nets to replace the other one I was useing
+    -  https://github.com/GFNOrg/torchgfn
+```
+pip install torchgfn
+```
+- Was able to get several scripts for measure and constucting meshes in blender (without the need of blender)
+- Nicely got all the packages Im using set up with poetry
+
+# Jan 27
+- in progress code here
+    - [here](https://github.com/JayCeLeonardUO/bpygfn/blob/main/bpygfn/base.py) `https://github.com/JayCeLeonardUO/bpygfn/blob/main/bpygfn/base.py`
+- Still working on getting the my blender state working with `torchgfn.env` class. 
+- I After another lit review I found that this is the most relevent paper in the space
+    - `https://arxiv.org/pdf/2410.15184` - ACTION ABSTRACTIONS FOR AMORTIZED SAMPLING
+
+## next
+
+- Get the env fully working with the "cube sampler" reward fn
+- discuss the findings of `https://arxiv.org/pdf/2410.15184`
+
+---
